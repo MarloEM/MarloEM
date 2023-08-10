@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarloEM
-- 👀 I’m interested in Nuclear and Astrophysics, and Motorsports
+- 👀 I’m interested in Physics
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me, IG emilllliano and LinkedIn 
 
