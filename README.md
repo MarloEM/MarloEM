@@ -1,3 +1,9 @@
+# Halo semua! 
+
+Perkenalkan nama saya **Marlo Emiliano Muktiono**.\
+
+Saya seorang **Mahasiswa** di [Universitas Indonesia](https://www.ui.ac.id/).\
+
 - 👋 Hi, I’m @MarloEM
 - 👀 I’m interested in Physics
 - 🌱 I’m currently learning Machine Learning
