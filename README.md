@@ -2,7 +2,7 @@
 
 My name is **Marlo Emiliano Muktiono**.
 
-and I am a **student** in [Universitas Indonesia](https://www.ui.ac.id/).
+and I am an undergrad **student** in [Universitas Indonesia](https://www.ui.ac.id/). I'm just here trying to understand both physics and machine learning.
 
 - 👋 Hi, I’m @MarloEM
 - 👀 I’m interested in Physics
